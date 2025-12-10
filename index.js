@@ -18,3 +18,6 @@ app.get('/login' , (req,res)=>{
 app.get('/homepage',(req,res)=>{
     res.send(`<h1>hogaya jii!!</h1>`)
 })
+app.get('/youtube',(req,res)=>{
+ res.send(`<p><href='www.youtube.com'/>CLICK HERE</p>`)
+})
