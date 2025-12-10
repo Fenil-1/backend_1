@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  },
+  "name": "learning_backend",
+  "version": "1.0.0",
+  "description": "using express for the first time\\",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Fenil patel",
+  "license": "ISC"
+}
